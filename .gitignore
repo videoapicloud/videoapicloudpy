@@ -1,0 +1,4 @@
+build
+videoapicloudpy.egg-info
+dist
+*.pyc
